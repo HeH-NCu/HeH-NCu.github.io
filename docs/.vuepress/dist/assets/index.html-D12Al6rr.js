@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as n,o}from"./app-elVb5wiF.js";const r={};function l(s,e){return o(),a("div",null,e[0]||(e[0]=[n("p",null,"'# Hello Web!'",-1)]))}const i=t(r,[["render",l]]),m=JSON.parse('{"path":"/","title":"","lang":"en-US","frontmatter":{},"git":{},"filePathRelative":"README.md"}');export{i as comp,m as data};
